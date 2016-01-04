@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>Xiami.png</string>
+			<key>Regular Expression</key>
+			<string>(?s)^.{1,}$</string>
+			<key>Title</key>
+			<string>Xiami</string>
+			<key>URL</key>
+			<string>http://www.xiami.com/search?key={popclip text}</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>http://www.xiami.com/</string>
+			<key>Name</key>
+			<string>Xiami</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>mailto:wellsnake@hotmail.com</string>
+			<key>Name</key>
+			<string>wellsnake</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Search the web using Xiami.</string>
+	<key>Extension Identifier</key>
+	<string>com.wellsnake.popclip.extension.xiami-search</string>
+	<key>Extension Image File</key>
+	<string>Xiami.png</string>
+	<key>Extension Name</key>
+	<string>Xiami</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
